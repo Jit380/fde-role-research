@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/fde-role-research/',
   lang: 'en-US',
   themeConfig: {
+    search: { provider: 'local' },
     nav: [{ text: 'Research', link: '/' }, { text: 'GitHub', link: 'https://github.com/Jit380/fde-role-research' }],
     sidebar: [{ text: 'Understand & compare', items: [
       { text: 'Start here', link: '/' },

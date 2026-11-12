@@ -10,7 +10,15 @@ Three employer-hosted postings checked **November 12, 2026**. Each displayed an 
 | Pace | New York • on-site | AI workflows, integrations, evaluations |
 | Revel | Los Angeles or San Francisco • on-site | Hardware integrations, tools, dashboards |
 
-## Palantir — commercial internship
+## Check fit first
+
+- **[Palantir](#palantir-commercial-internship):** graduate December 2027 or spring 2028; 25–50% travel. Deadline not stated.
+- **[Pace](#pace-ai-workflows):** 10–14 weeks, May/June starts; year and graduation window not stated. Confirm timing before applying.
+- **[Revel](#revel-software-meets-hardware):** graduate 2027/2028; June–August 2027; apply by **December 1, 2026, 11 p.m. Eastern**. Check the posting's ITAR criteria.
+
+The linked role summaries below include primary sources and qualification details.
+
+## Palantir — commercial internship {#palantir-commercial-internship}
 
 **Forward Deployed Software Engineer, Internship – Commercial** · [Primary posting](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6)
 
@@ -20,7 +28,7 @@ Three employer-hosted postings checked **November 12, 2026**. Each displayed an 
 - **Eligibility / logistics:** graduating December 2027 or spring 2028; expected travel 25–50%, depending on team and location. No internship duration stated on the reviewed page.
 - **Published pay:** estimated $10,000/month; not annual salary.
 
-## Pace — AI workflows
+## Pace — AI workflows {#pace-ai-workflows}
 
 **Forward Deployed Engineer, Intern** · [Primary posting](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1)
 
@@ -30,7 +38,7 @@ Three employer-hosted postings checked **November 12, 2026**. Each displayed an 
 - **Eligibility / logistics:** 10–14 weeks; May or June start; specific year and graduation window not stated. Strong performers may be considered for a post-graduation role; conversion is not promised.
 - **Published pay:** described as competitive, with no numeric range.
 
-## Revel — software meets hardware
+## Revel — software meets hardware {#revel-software-meets-hardware}
 
 **Internship: Forward Deployed Engineer, Software** · [Primary posting](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc)
 

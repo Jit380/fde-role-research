@@ -12,7 +12,7 @@ All three primary pages displayed application links on **November 12, 2026**.
 | Middesk | 3+ years production software | San Francisco / New York • hybrid |
 | Firecrawl | 3+ years customer-facing technical work or equivalent | San Francisco • five days on-site |
 
-## Palantir — new-grad commercial
+## Palantir — new-grad commercial {#palantir-new-grad-commercial}
 
 **Forward Deployed Software Engineer, New Grad – Commercial** · [Primary posting](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40)
 
@@ -22,7 +22,7 @@ All three primary pages displayed application links on **November 12, 2026**.
 - **Eligibility / logistics:** graduation in December 2026 or spring 2027; expected travel 25–50%, depending on team and location.
 - **Published pay:** estimated $135,000–$145,000/year salary; potential stock and other incentives are additional.
 
-## Middesk — production integrations
+## Middesk — production integrations {#middesk-production-integrations}
 
 **Forward Deployed Engineer** · [Primary posting](https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b)
 
@@ -32,7 +32,7 @@ All three primary pages displayed application links on **November 12, 2026**.
 - **Logistics:** hybrid in San Francisco or New York. Travel and sponsorship details not stated in the reviewed description.
 - **Published pay:** $148,000–$255,000 compensation range, with equity indicated; verify package composition.
 
-## Firecrawl — adoption and expansion
+## Firecrawl — adoption and expansion {#firecrawl-adoption-and-expansion}
 
 **Forward Deployed Engineer** · [Primary posting](https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d/)
 
